@@ -1,0 +1,2 @@
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: time=30ms TTL=116
