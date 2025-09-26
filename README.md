@@ -1,4 +1,4 @@
-# Laboratorio de redes (nivel becario)
+# Laboratorio de redes 
 
 Ejercicios para practicar comandos básicos de red.
 
